@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Corbata Cuadros",
+      "imageUrl": "https://t1.salir.ltmcdn.com/es/articles/6/5/1/tiendas_de_corbatas_en_barcelona_2156_600.jpg",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Corbata Azul",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzdzO5ZKSe3MfTM5n-DxYkFyaVVHGBzUQuEcSWKJTJw8UipCy2490Fjg7C3hLDCjY4Zs&usqp=CAU",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "Corbata Negra",
+      "imageUrl": "https://i0.wp.com/comprarcorbata.com/wp-content/uploads/2019/08/corbata-negra-modelo.jpg?fit=650%2C561&ssl=1",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Corbata Rayas",
+      "imageUrl": "https://socketts.es/wp-content/uploads/2017/10/Socketts-7-cm-Corbata-Rayas-Oxford-Jacquard-Azul_Azul-de-Seda.jpeg",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Corbata Verde",
+      "imageUrl": "https://i.pinimg.com/736x/2b/48/23/2b4823200272367fb01becc2cbc2bdff.jpg",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Corbata Dorado",
+      "imageUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/larazon/SPYP3CFPSJAP3ICHAPC2JL5EZ4.png",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Corbata Puntos",
+      "imageUrl": "https://www.corbatasygemelos.es/2101-large_default/corbatas-vizenzo-topos-amarillos.jpg",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "Corbata Estampado Rojo",
+      "imageUrl": "https://asset1.zankyou.com/images/mag-card-t/bf3/9951/350/350/-/es/wp-content/uploads/2012/10/Photography-By-Sabine-Scherer-Photography.jpg",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "Corbata Flores",
+      "imageUrl": "https://cdn0.matrimonios.cl/articles/images/vendor/5/9/2/1/t10_2x_lucia-corbatas-11_8_125921.jpeg",
+      "price": 16
+    }
+  ]
