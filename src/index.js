@@ -4,17 +4,17 @@ import './index.scss';
 import App from './App';
 import { BrowserRouter as Router } from 'react-router-dom'
 import { UserProvider } from './contexts/user.context';
-import { ProductsPovider } from './contexts/products.context';
+import { CategoriesPovider } from './contexts/categories.context';
 import { CartProvider } from './contexts/cart.context';
 
 ReactDOM.render(
   <Router>
     <UserProvider>
-      <ProductsPovider>
+      <CategoriesPovider>
         <CartProvider>
         <App />
         </CartProvider>
-      </ProductsPovider>
+      </CategoriesPovider>
     </UserProvider>
   </Router>,
   document.getElementById('root')
